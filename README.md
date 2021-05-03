@@ -49,11 +49,12 @@ Categorical:
 
 ## Summary of Findings
 
-> The popularity is right skewed as the popularity is calculated on the total number of plays the track has had and how recent those plays are. So it's reasonable that most of the tracks have a popularity of zero, and zero tracks have a popularity of 100
-The durations ranges from 100,000 ms to 500,000 ms with large freq at duration of 200,000 ms (3.3 minutes)
-Tracks have become more Energetic and Danceable in the recent years. The loudness and tempo has also increased. The tracks have become less "Acoustic" Also the more energetic and loud the more popular
-Valence and Danceability are highly related and so is speechiness and Danceability
-Over Years songs are getting louder and the louder the more popular, energitic and the more danceable
+> The popularity is right skewed as the popularity is calculated on the total number of plays the track has had and how recent those plays are. So it's reasonable that most of 
+> the tracks have a popularity of zero, and zero tracks have a popularity of 100
+> The durations ranges from 100,000 ms to 500,000 ms with large freq at duration of 200,000 ms (3.3 minutes)
+> Tracks have become more Energetic and Danceable in the recent years. The loudness and tempo has also increased. The tracks have become less "Acoustic" Also the more energetic and loud the more popular
+> Valence and Danceability are highly related and so is speechiness and Danceability
+> Over Years songs are getting louder and the louder the more popular, energitic and the more danceable
 
 
 ## Key Insights for Presentation
@@ -62,11 +63,11 @@ Over Years songs are getting louder and the louder the more popular, energitic a
 
 ## files included in the project
 
-Spotify_Dataset.ipynb / Spotify_Dataset.html : Contains all exploratory analysis
-Spotify_Dataset_Slide.ipynb / Spotify_Dataset_Slide.slides.html : Contains all explanatory analysis
-readme.md : readme file
-tracks.csv : our data
+> Spotify_Dataset.ipynb / Spotify_Dataset.html : Contains all exploratory analysis
+> Spotify_Dataset_Slide.ipynb / Spotify_Dataset_Slide.slides.html : Contains all explanatory analysis
+> readme.md : readme file
+> tracks.csv : our data
 
 ## Acknowledgements
 
-I would thank to Spotify Developers website for creating a very good documentation for Spotify Web API, Spotipy (Python module for Spotify web servers) for making the requesting process more flexible, and I want to especially thank to Kaggle Community for allowing me the opportunity to share this project!
+> I would thank to Spotify Developers website for creating a very good documentation for Spotify Web API, Spotipy (Python module for Spotify web servers) for making the requesting process more flexible, and I want to especially thank to Kaggle Community for allowing me the opportunity to share this project!
